@@ -1,4 +1,4 @@
 .venv
 guardar_bd/.env
-guardar_bd/_pycache_
+guardar_bd/__pycache__
 apuntes.txt
